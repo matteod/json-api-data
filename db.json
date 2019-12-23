@@ -1,11 +1,36 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
+  "base": "USD",
+  "date": "2019-12-23",
+  "rates": {
+    "USDXAU": [
+      {
+        "label": "Gold",
+        "rates": 1292.80
+      }
+    ],
+    "USDXAG": [
+      {
+        "label": "Silver",
+        "rates": 15.19
+      }
+    ],
+    "USDXPT": [
+      {
+        "label": "Platinum",
+        "rates": 951.60
+      }
+    ],
+    "USDXPD": [
+      {
+        "label": "Palladium",
+        "rates": 1615.09
+      }
+    ],
+    "USDXRH": [
+      {
+        "label": "Rhodium",
+        "rates": 5000.00
+      }
+    ]
   }
 }
